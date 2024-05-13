@@ -1,3 +1,2 @@
-# try.github.io
-In this project, i have created a business profile website.
+In this project, I have created a business profile website.
 this website includes 
